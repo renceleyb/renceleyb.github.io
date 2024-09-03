@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://renceleyb.github.io/sitemap.html.gz
+Sitemap: https://renceleyb.github.io/app/sitemap.html.gz
+Sitemap: https://renceleyb.github.io/assets/sitemap.html.gz
+Sitemap: https://renceleyb.github.io/css/sitemap.html.gz
+Sitemap: https://renceleyb.github.io/includes/sitemap.html.gz
+Sitemap: https://renceleyb.github.io/item/sitemap.html.gz
+Sitemap: https://renceleyb.github.io/src/sitemap.html.gz
